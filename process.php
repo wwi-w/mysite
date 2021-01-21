@@ -23,6 +23,6 @@
     }
     else
     {
-        header("location:wwi-w.github.io/get-free-cards-for-free");
+        header("location:index1.php");
     }
 ?>
